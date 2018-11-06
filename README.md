@@ -67,10 +67,10 @@ Agradecemos la cooperación de Programadores Chile por permitirnos basarnos en s
 
 **3.10** Crear publicaciones siendo menor de edad. A no ser que no sean para pedir orientación profesional sobre la carrera, dudas respecto a la industria y todo lo relacionado a ambito académico, laboral y no publicaciones de caracter Técnico.
 
-**3.11** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Programadores Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
+**3.11** Crear publicaciones o comentarios "Sexistas" o "Especificando un Genero Determinado", en Desarrolladores Ethereum Chile apoyamos la diversidad de genero y no toleramos publicaciones y/o comentarios machistas o feministas.
 
 
-**3.12** Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativas y grupos para estos fines y no el de Programadores Chile.
+**3.12** Compartir cualquier material con derechos de autor "dentro" de la comunidad. hay otras iniciativas y grupos para estos fines y no el de Desarrolladores Ethereum Chile.
 
 **3.13** Crear publicaciones sobre temas de caracter Religioso, Politico y Deportivo.
 
